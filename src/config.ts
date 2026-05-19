@@ -40,56 +40,56 @@ export const config = {
       "label": "Document inventory",
       "weight": 15,
       "defaultStatus": "not-started",
-      "prompt": "Implement and verify document inventory with evidence that a Volta student pod, mentor, and owner can understand."
+      "guidance": "Implement and verify document inventory with evidence that a Volta student pod, mentor, and owner can understand."
     },
     {
       "id": "missing-doc-request-scripts",
       "label": "Missing-doc request scripts",
       "weight": 15,
       "defaultStatus": "not-started",
-      "prompt": "Implement and verify missing-doc request scripts with evidence that a Volta student pod, mentor, and owner can understand."
+      "guidance": "Implement and verify missing-doc request scripts with evidence that a Volta student pod, mentor, and owner can understand."
     },
     {
       "id": "board-funder-packet-outline",
       "label": "Board/funder packet outline",
       "weight": 15,
       "defaultStatus": "not-started",
-      "prompt": "Implement and verify board/funder packet outline with evidence that a Volta student pod, mentor, and owner can understand."
+      "guidance": "Implement and verify board/funder packet outline with evidence that a Volta student pod, mentor, and owner can understand."
     },
     {
       "id": "renewal-reminders",
       "label": "Renewal reminders",
       "weight": 15,
       "defaultStatus": "not-started",
-      "prompt": "Implement and verify renewal reminders with evidence that a Volta student pod, mentor, and owner can understand."
+      "guidance": "Implement and verify renewal reminders with evidence that a Volta student pod, mentor, and owner can understand."
     },
     {
       "id": "evidence-quality",
       "label": "Evidence quality",
       "weight": 10,
       "defaultStatus": "not-started",
-      "prompt": "Attach proof, source notes, screenshots, owner confirmation, or reviewer rationale."
+      "guidance": "Attach proof, source notes, screenshots, owner confirmation, or reviewer rationale."
     },
     {
       "id": "owner-handoff",
       "label": "Owner handoff",
       "weight": 10,
       "defaultStatus": "not-started",
-      "prompt": "Make the output understandable and maintainable by a nontechnical owner."
+      "guidance": "Make the output understandable and maintainable by a nontechnical owner."
     },
     {
       "id": "mission-alignment",
       "label": "Mission alignment",
       "weight": 10,
       "defaultStatus": "not-started",
-      "prompt": "Show how this advances digital equity, student growth, or pro bono delivery."
+      "guidance": "Show how this advances digital equity, student growth, or pro bono delivery."
     },
     {
       "id": "qa-safety",
       "label": "QA and safety",
       "weight": 10,
       "defaultStatus": "not-started",
-      "prompt": "Resolve privacy, accessibility, accuracy, and operational risks before handoff."
+      "guidance": "Resolve privacy, accessibility, accuracy, and operational risks before handoff."
     }
   ],
   "templates": {
