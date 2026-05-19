@@ -1,0 +1,35 @@
+{
+  "name": "@volta-oss/nonprofit-docu-pack",
+  "version": "3.0.0",
+  "private": false,
+  "type": "module",
+  "description": "A document readiness checklist and packet builder for small nonprofits applying for funding.",
+  "scripts": {
+    "test": "node --test",
+    "start": "python3 -m http.server 4173",
+    "validate": "node --test",
+    "certify": "node --test test/v3.test.js",
+    "test:all": "node --test"
+  },
+  "keywords": [
+    "digital-equity",
+    "finance-grants",
+    "local-first",
+    "oss",
+    "v3-production",
+    "volta"
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/volta-npo/14-nonprofit-docu-pack.git"
+  },
+  "homepage": "https://volta-npo.github.io/14-nonprofit-docu-pack/",
+  "bugs": {
+    "url": "https://github.com/volta-npo/14-nonprofit-docu-pack/issues"
+  },
+  "author": "Volta OSS Division <volta.npo@gmail.com>",
+  "engines": {
+    "node": ">=20"
+  }
+}
