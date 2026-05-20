@@ -36,11 +36,11 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/volta-npo/14-nonprofit-docu-pack.git"
+    "url": "git+https://github.com/volta-npo/nonprofit-docu-pack.git"
   },
-  "homepage": "https://volta-npo.github.io/14-nonprofit-docu-pack/",
+  "homepage": "https://volta-npo.github.io/nonprofit-docu-pack/",
   "bugs": {
-    "url": "https://github.com/volta-npo/14-nonprofit-docu-pack/issues"
+    "url": "https://github.com/volta-npo/nonprofit-docu-pack/issues"
   },
   "author": "Volta Open Source <volta.npo@gmail.com>",
   "engines": {

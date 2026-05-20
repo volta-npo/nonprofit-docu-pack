@@ -184,7 +184,7 @@ export const saas = {
   ],
   "experiments": [
     {
-      "hypothesis": "Taxonomy prompts reduce missing funder attachments",
+      "hypothesis": "Taxonomy guidance reduces missing funder attachments",
       "measure": "Packet completeness",
       "target": "95% complete before deadline",
       "cadence": "weekly"
